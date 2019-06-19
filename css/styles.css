@@ -21,12 +21,6 @@ font-size: 2em;
 
 }
 
- .contenedor{
-   background-color: red;
-   width: 80%;
-   height: :1000px;
-   margin: 0auto;
-   padding: 1em;
  }
 
  .columna {
@@ -35,8 +29,12 @@ font-size: 2em;
    margin-bottom: 1em;
  }
 
-.primera{width:100%;}
-.segunda{width:50%;}
-.tercera{width:25%;}
-.cuarta{width:75%;}
-.quinta{width:10;}
+.contenedor-imagen-pequeña,
+.contenedor-imagen-grande {
+  background-color: #0F6990;
+  width: 70%;
+
+}
+img {
+  width: 100%;
+}
