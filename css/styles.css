@@ -39,3 +39,10 @@ img {
   width: 100%;
   max-width: 420px;
 }
+
+video{
+  width: 100%;
+}
+iframe{
+  width: 100%;
+}
