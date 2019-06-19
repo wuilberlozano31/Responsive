@@ -34,9 +34,9 @@ font-size: 2em;
    height: 30px;
    margin-bottom: 1em;
  }
- 
+
 .primera{width:100%;}
-.primera{width:50%;}
-.primera{width:25%;}
-.primera{width:75%;}
-.primera{width:10;}
+.segunda{width:50%;}
+.tercera{width:25%;}
+.cuarta{width:75%;}
+.quinta{width:10;}
