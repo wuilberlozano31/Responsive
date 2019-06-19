@@ -20,3 +20,23 @@ p {
 font-size: 2em;
 
 }
+
+ .contenedor{
+   background-color: red;
+   width: 80%;
+   height: :1000px;
+   margin: 0auto;
+   padding: 1em;
+ }
+
+ .columna {
+   background-color: white;
+   height: 30px;
+   margin-bottom: 1em;
+ }
+ 
+.primera{width:100%;}
+.primera{width:50%;}
+.primera{width:25%;}
+.primera{width:75%;}
+.primera{width:10;}
